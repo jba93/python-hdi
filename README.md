@@ -1,2 +1,2 @@
 # python-hdi
-Material do terinamento de Python realizado no Grupo HDI.
+Material do treinamento de Python realizado no Grupo HDI.
